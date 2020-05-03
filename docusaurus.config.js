@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Arbchain',
   tagline: 'Arbchain',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://consensolabs.github.io',
+  baseUrl: '/arbchain-docs/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'consensolabs', // Usually your GitHub org/user name.
+  projectName: 'arbchain-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Arbchain',
@@ -66,7 +66,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/consensolabs/arbchain-docs',
             },
           ],
         },
