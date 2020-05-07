@@ -8,10 +8,21 @@ You can read more about it [here]().
 
 ## Why Arbchain?
 
+Even though arbitration procedures are an alternative dispute resolution solutions, they them selves are time consuming, costly
+ and at times inefficient. In addition to this, arbitration is a complex procedure under international law. Although international 
+ arbitration courts try to solve this, it lacks a standard procedure.
+ 
+ Arbchain is a DLT based platform that brings all the benefits of the decentralization to solve inefficiencies in the arbitration by
+ providing authentic, privacy preserved dispute resolution with a self enforceable agreements embedded in the blockchain to automate several 
+ arbitration procedures and enforce arbitral awards.
+
 ---
 
 ## What is Arbchain?
 
+ Arbchain is a DLT based platform that brings all the benefits of the decentralization to solve inefficiencies in the arbitration by
+ providing authentic, privacy preserved dispute resolution with a self enforceable agreements embedded in the blockchain to automate several 
+ arbitration procedures and enforce arbitral awards.
 
 ---
 
