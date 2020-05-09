@@ -2,7 +2,7 @@ module.exports = {
   title: 'Arbchain',
   tagline: 'Arbchain',
   url: 'https://consensolabs.github.io',
-  baseUrl: '/arbchain-docs/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'consensolabs', // Usually your GitHub org/user name.
   projectName: 'arbchain-docs', // Usually your repo name.
