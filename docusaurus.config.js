@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Arbchain',
-  tagline: 'Arbchain',
+  tagline: 'A DLT based arbitration platform',
   url: 'https://consensolabs.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -82,13 +82,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/arbchain/docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/arbchain/docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

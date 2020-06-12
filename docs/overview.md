@@ -33,12 +33,20 @@ Even though arbitration procedures are an alternative dispute resolution solutio
 
 Public blockchain dispute resolution solutions:
 
-* [Kloeros](https://kleros.io)
+* [Kleros](https://kleros.io)
 * [Aragon Court](https://court.aragon.org)
 
 ### How Arbchain is different?
 
-* 
+* Being an enterprise solution, Arbchain tries to solve the inefficiencies in the existing arbitration procedure.
+
+:::note
+Arbchain doesnt re-invent the arbitration procedure, instead it provides a better execution of the procedures.
+This ensures easy integration with the existing arbitration solutions.
+:::
+
+* Arbchain takes care of end to end arbitration procedure from dispute claim to award
+
 
 ### Arbchain features
 
@@ -71,7 +79,7 @@ Key features of using blockchain technology in decentralized dispute resolution 
 
 * Asynchronous arguments and document collections
 
-* Enforcement of arbitrar awards through contracts
+* Enforcement of arbitrator awards through contracts
 
 * Cross border enforcements (International arbitration)
 
