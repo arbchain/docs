@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Arbchain',
   tagline: 'A DLT based arbitration platform',
-  url: 'https://consensolabs.github.io',
+  url: 'https://arbchain.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'consensolabs', // Usually your GitHub org/user name.
-  projectName: 'arbchain-docs', // Usually your repo name.
+  organizationName: 'arbchain', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Arbchain',
@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/consensolabs',
+          href: 'https://github.com/arbchain',
           label: 'GitHub',
           position: 'right',
         },
@@ -66,7 +66,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/consensolabs/arbchain-docs',
+              href: 'https://github.com/arbchain/docs',
             },
           ],
         },
