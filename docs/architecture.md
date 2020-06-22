@@ -138,7 +138,6 @@ The following technical architecture diagram consists of all the protocols and s
 
 ![gitfunded-architecture.png](/img/solution-architecture.png)
 
-
 ## Contract architecture
 
 ![contract-architecture.png](/img/contract-architecture.png)
