@@ -52,12 +52,42 @@ Reference projects:
    * [Adobe Sign](https://www.adobe.com/content/dam/acom/en/security/pdfs/adobe-sign-technical-overview-ue.pdf)
 
     
-## Offchain document store 
-## Award document generator 
+## Off chain document store 
+
+Document store will make sure that all the timesptamped documents are archived in a decentralized storage 
+network such as IPFS.
+
+Document store will have the following steps:
+
+1. **Time  stamping**
+
+    Whenever a document is uploaded by Claimant, Respondent, Court, Arbitrators to the platform, it has to be timestamped
+    and updated in the agreement/ procedure contract.
+    
+2. **Archiving the documents in decentralized storage**
+
+    The documents will be archived to the storage with a reference mentioned in the agreement/ procedure contract.
+
+3. **Access the documents** 
+
+     The documents should be accessible with the help of timestamped reference on the contracts.
+
 ## Private channel for document/ data exchange
+
+List of private events during the arbitration procedure:
+
+
 ## Notification service
+
+Notification service to notify the parties during the arbitration procedure events.
+
 ## Onchain/ Offchain payment service
 
+Payment service to collect arbitration cost and update the information on contracts
+
+## Award document generator 
+
+An award generator that parses the agreement/ procedure contracts to generate the final award document.
 
 
 :::note

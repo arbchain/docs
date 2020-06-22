@@ -141,9 +141,14 @@ The following technical architecture diagram consists of all the protocols and s
 
 ## Contract architecture
 
-:::note
-Will be updated soon!
-:::
+![contract-architecture.png](/img/contract-architecture.png)
+
+**Contract interface:**
+
+![contract-structures.png](/img/contract-structure.png)
+
+
+
 
 
 
