@@ -13,7 +13,7 @@ module.exports = {
         alt: 'Arbchain Logo',
         src: 'img/logo.svg',
       },
-      links: [
+      items: [
         {
           to: 'docs/overview',
           activeBasePath: 'docs',
@@ -82,13 +82,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/arbchain/docs/edit/master/',
+              'https://github.com/arbchain/docs/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/arbchain/docs/edit/master/',
+              'https://github.com/arbchain/docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
