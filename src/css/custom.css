@@ -7,25 +7,22 @@
 
 /* You can override the default Infima variables here. #444950*/
 html[data-theme="dark"] {
-  /*--ifm-code-background: #444950;
-  --ifm-code-color: white;*/
-  --ifm-code-background: white ;
-  --code-block-background: rgb(41, 45, 62);
-  --code-block-color: white
+  --ifm-code-background: #444950;
+  --ifm-code-color: white;
 }
 
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary: #FCBC2B;
+  --ifm-color-primary-dark: rgb(252, 176, 13);
+  --ifm-color-primary-darker: rgb(252, 219, 82);
+  --ifm-color-primary-darkest: rgb(252, 185, 59);
+  --ifm-color-primary-light: rgb(252, 231, 73);
+  --ifm-color-primary-lighter: rgb(252, 233, 105);
+  --ifm-color-primary-lightest: rgb(248, 252, 116);
   --ifm-code-font-size: 95%;
-  --ifm-code-color: red;
-  --code-block-background: #ebedf0;
-  --code-block-color: rgb(57, 58, 52)
+  --ifm-code-color: rgb(41, 45, 62);
+  --code-block-background: rgb(41, 45, 62);
+  --code-block-color: var(--ifm-color-primary-lightest);
 }
 
 .docusaurus-highlight-code-line {
@@ -38,7 +35,7 @@ html[data-theme="dark"] {
 code{
   color: var(--ifm-code-color);
   font-weight: bold;
-  font-style: italic;
+  /*font-style: italic;*/
   background-color:var(--ifm-code-background)
 }
 
@@ -47,8 +44,18 @@ code{
   background-color: var(--code-block-background) !important;
 }
 
+.navbar
+.navbar__logo {
+  height: 45px;
+}
+
+.navbar
+.navbar__brand {
+  height: 3rem;
+}
+
 span.plain{
   color: var(--code-block-color) !important;
-  font-style: italic !important;
-  font-weight: bold
+  /*font-style: italic !important;*/
+  /*font-weight: bold*/
 }

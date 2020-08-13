@@ -8,10 +8,10 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Arbchain',
       logo: {
         alt: 'Arbchain Logo',
         src: 'img/logo.svg',
+        srcDark: 'img/darkLogo.svg',
       },
       items: [
         {
@@ -83,6 +83,8 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
               'https://github.com/arbchain/docs/edit/master/',
+          // homePageId: 'overview',
+          // routeBasePath: '/'
         },
         blog: {
           showReadingTime: true,
