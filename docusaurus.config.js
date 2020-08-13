@@ -6,6 +6,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'arbchain', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
+  onBrokenLinks: 'ignore',
   themeConfig: {
     navbar: {
       logo: {
@@ -15,12 +16,15 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/overview',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+          to: 'blog',
+          label: 'Blog',
+          position: 'right',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {
+          href: 'https://arbchain.consensolabs.com',
+          label: 'Website',
+          position: 'right',
+        },
         {
           href: 'https://github.com/arbchain',
           label: 'GitHub',
@@ -85,12 +89,6 @@ module.exports = {
               'https://github.com/arbchain/docs/edit/master/',
           homePageId: 'overview',
           routeBasePath: '/'
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-              'https://github.com/arbchain/docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
