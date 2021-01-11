@@ -29,12 +29,17 @@ Even though arbitration procedures are an alternative dispute resolution solutio
 
 ## Literature review
 
-[Open Court](https://media.consensys.net/opencourt-legally-enforceable-blockchain-based-arbitration-3d7147dbb56f) : Smart arbitration agreement solutions on OpenLaw:
+- [Open Court](https://media.consensys.net/opencourt-legally-enforceable-blockchain-based-arbitration-3d7147dbb56f) : Smart arbitration agreement solutions on OpenLaw:
+- [Dispute resolution use case discussion on Ethereum](https://vimeo.com/419877388/74d8ae869f)
+- [Article on Open Court](https://media.consensys.net/opencourt-legally-enforceable-blockchain-based-arbitration-3d7147dbb56f)
+- [Paper on the ettgovernance of blockchian dispute resolution](https://drive.google.com/open?id=1V4dn9RhMahWJ_SkEfrHhB-Rcl2LuPMYJ)
+- [LCIA arbitration rules](https://www.lcia.org/Dispute_Resolution_Services/lcia-arbitration-rules-2014.aspx)
 
 Public blockchain dispute resolution solutions:
 
-* [Kleros](https://kleros.io)
-* [Aragon Court](https://court.aragon.org)
+- [Kleros](https://kleros.io)
+- [Aragon Court](https://court.aragon.org)
+
 
 ### How Arbchain is different?
 
