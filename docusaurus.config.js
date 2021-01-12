@@ -87,7 +87,6 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
               'https://github.com/arbchain/docs/edit/master/',
-          homePageId: 'overview',
           routeBasePath: '/'
         },
         theme: {
