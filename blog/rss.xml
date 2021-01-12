@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Arbchain Blog</title>
+        <link>https://arbchain.github.io/blog</link>
+        <description>Arbchain Blog</description>
+        <lastBuildDate>Tue, 05 May 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello from Koshik]]></title>
+            <link>https://arbchain.github.io/blog/2020/05/05/hello-koshik</link>
+            <guid>Hello from Koshik</guid>
+            <pubDate>Tue, 05 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
+        </item>
+    </channel>
+</rss>
